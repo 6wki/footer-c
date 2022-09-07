@@ -103,7 +103,6 @@ h1 {
 }
 
 #email {
-    flex: 1;
     height: 100%;
     outline: none;
     border: none;
@@ -114,8 +113,7 @@ h1 {
 }
 
 .paper-buttom {
-    width: 25%;
-    height: 100%;
+    width: 120px;
     border: none;
     background-color: #00a6fb;
     cursor: pointer;
@@ -245,7 +243,7 @@ h1 {
     }
 
     .email {
-        width: 100%;
+        width: 200px;
     }
 
     .second {
